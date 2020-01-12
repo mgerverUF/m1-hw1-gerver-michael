@@ -1,7 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+h1 {
+    background-color: crimson;
+    color: white;
+    padding: 2% 0%;
+    margin: 0 0 2% 0;
+}
+
+ul {
+    list-style-type: none;  
+    display: inline;
+}
+
+li {
+    padding: 2% 4% 2% 4%;
+    display: inline;
+}
+
+li:hover {
+    font-style: italic;
+}
+
 p, ul {
     font-family: 'Nanum Gothic', sans-serif;
 }
 
 h1, h2, h3 {
     font-family: 'Bitter', serif;
+}
+
+h2 {
+    color: slategrey;
+    padding: 5% 0 1% 0;
+}
+
+footer {
+    background-color: slategrey;
+    padding: 1% 0%;
+    margin: 5% 0 0 0;
+}
+
+footer h3 {
+    color: white;
 }
