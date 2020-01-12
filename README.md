@@ -11,4 +11,3 @@ I used this source to help create this README file.
 [Horizontal List Items](https://www.w3schools.com/css/css_navbar.asp)
 I used this source to refresh my memory about how to format an unordered list horizontally. 
 
-### Purpose
